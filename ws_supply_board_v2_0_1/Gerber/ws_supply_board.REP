@@ -1,0 +1,196 @@
+*************************************************************
+FileName = ws_supply_board.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : ws_supply_board.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ws_supply_board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ws_supply_board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D24
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ws_supply_board.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D23
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ws_supply_board.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ws_supply_board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ws_supply_board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ws_supply_board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D24
+    D32
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ws_supply_board.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : ws_supply_board.Outline
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D32
+*************************************************************
+

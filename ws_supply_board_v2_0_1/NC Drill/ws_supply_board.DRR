@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ws_supply_board.CMPcbDoc   29/11/2017  20:36:02
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ws_supply_board.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.711mm (27.992mil)      Round          12               77.59 mm (3.05 Inch)
+T2        1.016mm (40mil)          Round          16               73.56 mm (2.90 Inch)
+T3        1.5mm (59.055mil)        Round          4                26.00 mm (1.02 Inch)
+T4        3mm (118.11mil)          Round          4                108.00 mm (4.25 Inch)
+---------------------------------------------------------------------------
+Totals                                            36               285.15 mm (11.23 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
